@@ -1,0 +1,15 @@
+Analizador léxico 
+Estefanía Ortiz 
+A01209403
+
+Ejecución: 
+
+1. Abrir la consola 
+2. Posicionarse en la carpeta AnalizadorLexico
+3. Ejecutar el comando: 
+	python3 analizadorlexico.py
+4. En caso de querer probar con otra gramatica se debe
+   borrar la que existe en el archivo "input.txt"
+   y pegar la nueva gramatica en ese mismo archivo. 
+5. En el archivo "output.txt" se puede visualizar el resultado
+   cada vez que se pruebe con una nueva gramatica. 
