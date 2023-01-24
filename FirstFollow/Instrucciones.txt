@@ -1,0 +1,9 @@
+Diana Estefania Ortiz Ledesma
+A01209403
+
+Para ejecutar: 
+
+1. Poner en consola: python3 FirstFollow.py
+2. Poner el número de líneas de la gramática 
+3. Escribir línea por línea cada producción de la gramática 
+4. Al terminar se muestra el resultado el consola
